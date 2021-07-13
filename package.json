@@ -1,0 +1,19 @@
+{
+  "name": "npm-git-module",
+  "version": "1.0.0",
+  "description": "Test git module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankra/npm-git-module.git"
+  },
+  "author": "frankra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frankra/npm-git-module/issues"
+  },
+  "homepage": "https://github.com/frankra/npm-git-module#readme"
+}
